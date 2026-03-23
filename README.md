@@ -265,6 +265,8 @@ pip install -r requirements.txt
 playwright install chromium
 ```
 
+> **Platform**: Web automation works cross-platform (Windows / macOS / Linux). Desktop automation currently supports Windows (via UIA). macOS and Linux support are on the roadmap.
+
 ### Start
 
 ```bash
