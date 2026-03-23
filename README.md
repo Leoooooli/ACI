@@ -568,7 +568,7 @@ If you use ACI in academic work:
 
 ## License
 
-[MIT License](LICENSE)
+[Apache License 2.0](LICENSE)
 
 ---
 
